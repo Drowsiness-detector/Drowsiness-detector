@@ -1,10 +1,10 @@
-### 环境：
+### 运行：
 
-pytorch==1.6.0
+```
+python run.py
+```
 
-### 运行demo：
-
-配好环境后， pycharm 运行： detector \ test_camera_pfld_onnx.py
+------
 
 ### 量化时间：2s
 
